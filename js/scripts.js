@@ -10,14 +10,13 @@ function GenerateCheckboxes()
      var itemChecks = document.getElementById("ItemChecks");
 
     // var checksArray = [kokiriForestChecks, kakarikoVillageChecks, deathMountainChecks];
-    var checksArray;
-    ReadJson();
+    var checksArray = ReadJson();
 
     checksArray.forEach(array => {
       var div = document.createElement("div");
       var title = document.createElement("h3");
       title.setAttribute("class", "mb-3");
-      title.textContent = array.Name;
+    //   title.textContent = array.Name;
 
       div.appendChild(title);
 
@@ -56,8 +55,7 @@ function GenerateCheckboxes()
 
 function ReadJson()
 {
-    $.getJSON( "json/locations.json", function( data ) 
+    $.getJSON(GetText("json/locations.json"), function( data ) 
     {
-        checksArray = [data];
     });
 }
