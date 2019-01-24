@@ -55,7 +55,7 @@ function GenerateCheckboxes()
 
 function ReadJson()
 {
-    $.getJSON(GetText("json/locations.json"), function( data ) 
+    $.getJSON("json/locations.json", function( data ) 
     {
         return [data];
     });
