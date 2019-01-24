@@ -57,5 +57,6 @@ function ReadJson()
 {
     $.getJSON(GetText("json/locations.json"), function( data ) 
     {
+        return [data];
     });
 }
