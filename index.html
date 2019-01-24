@@ -25,9 +25,11 @@
       items.forEach(element => {
         var check = document.createElement("input");
         check.type = "checkbox";
+        check.setAttribute("id", element);
         
         var label = document.createElement("label");
         label.textContent = element;
+        label.setAttribute("for", element);
 
         itemChecks.appendChild(check);
         itemChecks.appendChild(label);
