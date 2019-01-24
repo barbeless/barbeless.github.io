@@ -18,23 +18,44 @@
 
 
     <script>
-      var items = ["Kokiri Sword", "Master Sword", "Bigoron Sword"];
+      var kokiriForestChecks = ["Kokiri Sword", "House Chest #1", "House Chest #2", "House Chest #3", "House Chest #4"];
+      kokiriForestChecks.Name = "Kokiri Forest";
+      var deathMountainChecks = ["Top Dodongo Cavern", "Broken Wall", "Cow Grotto", "Rolling Pot", "Crater Grotto"];
+      deathMountainChecks.Name = "Death Mountain";
       
       var itemChecks = document.getElementById("ItemChecks");
 
-      items.forEach(element => {
-        var check = document.createElement("input");
-        check.type = "checkbox";
-        check.setAttribute("id", element);
-        
-        var label = document.createElement("label");
-        label.textContent = element;
-        label.setAttribute("for", element);
+      var checksArray = [kokiriForestChecks, deathMountainChecks];
 
-        itemChecks.appendChild(check);
-        itemChecks.appendChild(label);
+      checksArray.forEach(array => {
+        var div = document.createElement("div");
+        var title = document.createElement("h3");
+        title.textContent = array.Name;
+
+        div.appendChild(title);
+
+        addCheckboxes(array, div);
+
+        itemChecks.appendChild(div);
         itemChecks.appendChild(document.createElement("br"));
       });
+
+      function addCheckboxes(items, div)
+      {
+        items.forEach(element => {
+          var check = document.createElement("input");
+          check.type = "checkbox";
+          check.setAttribute("id", element);
+          
+          var label = document.createElement("label");
+          label.textContent = element;
+          label.setAttribute("for", element);
+
+          div.appendChild(check);
+          div.appendChild(label);
+          div.appendChild(document.createElement("br"));
+        });
+      };
     </script>
   </body> 
 </html>
