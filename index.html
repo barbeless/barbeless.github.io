@@ -1,30 +1,38 @@
 <!doctype html> 
  
 <html lang="en"> 
-<head> 
-  <meta charset="utf-8"> 
- 
-  <title>Ocarina of Time Randomizer</title> 
-  <meta name="description" content="OoTR"> 
-  <meta name="author" content="SitePoint"> 
- 
-  <link rel="stylesheet" href="css/styles.css?v=1.0"> 
- 
-</head> 
- 
-<body> 
-  <script src="js/scripts.js"></script> 
-</body> 
-</html>
-
-
-<!-- Material checked -->
-<div class="form-check">
-  <input type="checkbox" class="form-check-input" id="materialChecked2" >
-  <label class="form-check-label" for="materialChecked2">Ocarina</label>
-</div>
+  <head> 
+    <meta charset="utf-8"> 
   
-  <div class="form-check">
-  <input type="checkbox" class="form-check-input" id="materialChecked3" >
-  <label class="form-check-label" for="materialChecked3">Bigoron sword</label>
-</div>
+    <title>Ocarina of Time Randomizer</title> 
+    <meta name="description" content="OoTR"> 
+    <meta name="author" content="SitePoint"> 
+  
+    <link rel="stylesheet" href="css/styles.css?v=1.0"> 
+    <script src="js/scripts.js"></script>  
+  </head> 
+  
+  <body> 
+    <div id="ItemChecks">
+    </div>   
+
+
+    <script>
+      var items = ["Kokiri Sword", "Master Sword", "Bigoron Sword"];
+      
+      var itemChecks = document.getElementById("ItemChecks");
+
+      items.forEach(element => {
+        var check = document.createElement("input");
+        check.type = "checkbox";
+        
+        var label = document.createElement("label");
+        label.textContent = element;
+
+        itemChecks.appendChild(check);
+        itemChecks.appendChild(label);
+        itemChecks.appendChild(document.createElement("br"));
+      });
+    </script>
+  </body> 
+</html>
