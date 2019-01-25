@@ -11,7 +11,7 @@ function LoadPage(json)
 
 function AddZone(zone)
 {
-    var zoneDiv = document.getElementById(zone.Name.replace(" ", "-"));
+    var zoneDiv = document.getElementById(zone.Name.replace(" ", "-").replace(" ", "-"));
 
     var header = document.createElement("h3");
     header.textContent = zone.Name;
