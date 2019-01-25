@@ -14,7 +14,7 @@
              "CheckType":4
           },
           {  
-             "Location":"Skull Kid",,
+             "Location":"Skull Kid",
              "AgeRequirement":1,
              "CheckType":2
           },
@@ -346,7 +346,7 @@
            "CheckType":0
         },
         {  
-           "Location": "Goron City 4 Maze Chest",,
+           "Location": "Goron City 4 Maze Chest",
            "AgeRequirement":3,
            "CheckType":0
         },
@@ -453,7 +453,7 @@
            "CheckType":1
         },
         {  
-           "Location":"Zoras Fountain Fairy Reward"
+           "Location":"Zoras Fountain Fairy Reward",
            "AgeRequirement":3,
            "CheckType":1
         },
