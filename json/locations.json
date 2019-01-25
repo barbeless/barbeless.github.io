@@ -738,7 +738,7 @@
            "CheckType":2
         }
      ]
-  } 
+  }, 
   {  
      "Name":"Ganon-Tower",
      "CheckboxColorName":"Orange",
@@ -755,3 +755,4 @@
         }
      ]
   } 
+]
