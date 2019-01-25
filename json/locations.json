@@ -8,40 +8,186 @@
              "AgeRequirement":1,
              "CheckType":0
           },
+           {  
+             "Location":"Song from Saria",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
           {  
-             "Location":"House Chest #1",
-             "AgeRequirement":3,
+             "Location":"Skull Kid",,
+             "AgeRequirement":1,
+             "CheckType":2
+          },
+          {  
+             "Location":"Ocarina Memory Game",
+             "AgeRequirement":1,
              "CheckType":0
           },
           {  
-             "Location":"House Chest #2",
-             "AgeRequirement":3,
+             "Location":"Target in Woods",
+             "AgeRequirement":1,
+             "CheckType":0
+          },
+           {  
+             "Location":"LW Deku Scrub Deku Stick Upgrade",
+             "AgeRequirement":1,
              "CheckType":0
           },
           {  
-             "Location":"House Chest #3",
-             "AgeRequirement":3,
+             "Location":"Sheik Forest Song",
+             "AgeRequirement":1,
              "CheckType":0
           },
           {  
-             "Location":"House Chest #4",
+             "Location":"Kokiri Forest Storms Grotto Chest",
+             "AgeRequirement":1,
+             "CheckType":0
+          },
+          {  
+             "Location":"Lost Woods Generic Grotto Chest",
+             "AgeRequirement":1,
+             "CheckType":0
+          },
+          {  
+             "Location":"Deku Theater Skull Mask",
+             "AgeRequirement":1,
+             "CheckType":0
+          },
+          {  
+             "Location":"Deku Theater Mask of Truth",
+             "AgeRequirement":1,
+             "CheckType":0
+          },
+          {  
+             "Location":"LW Grotto Deku Scrub Deku Nut Upgrade",
+             "AgeRequirement":1,
+             "CheckType":0
+          },
+          {  
+             "Location":"Wolfos Grotto Chest",
+             "AgeRequirement":1,
+             "CheckType":0
+          },
+          {  
+             "Location":"4 House Chest",
              "AgeRequirement":3,
              "CheckType":0
           }
+           
        ]
     },
     {  
        "Name":"Kakariko Village",
        "CheckboxColorName":"Blue",
        "Checks":[  
-          {  
-             "Location":"Anju Kid",
+           {  
+             "Location":"Sheik in Kakariko",
              "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Man on Roof",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Kakariko Back Grotto Chest",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Windmill Freestanding PoH",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Adult Shooting Gallery",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Graveyard Freestanding PoH",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Gravedigging Tour",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Shield Grave Chest",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Forgotten Grave Chest",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Composer Grave Chest",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Hookshot Chest",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Dampe Races",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Anjus Chickens",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+          {  
+             "Location":"Anju as Adult",
+             "AgeRequirement":1,
+             "CheckType":4
+          }, 
+           {  
+             "Location":"Song at Windmill",
+             "AgeRequirement":1,
+             "CheckType":4
+          },
+           {  
+             "Location":"Song from Composer Grave",
+             "AgeRequirement":1,
+             "CheckType":4
+          }, 
+           {  
+             "Location":"Impa House Freestanding PoH",
+             "AgeRequirement":1,
+             "CheckType":2
+          },        
+           {  
+             "Location":"10 Gold Skulltula Reward",
+             "AgeRequirement":3,
              "CheckType":2
           },
           {  
-             "Location":"Anju Adult",
-             "AgeRequirement":2,
+             "Location":"20 Gold Skulltula Reward",
+             "AgeRequirement":3,
+             "CheckType":2
+          },
+           {  
+             "Location":"30 Gold Skulltula Reward",
+             "AgeRequirement":3,
+             "CheckType":2
+          },
+           {  
+             "Location":"40 Gold Skulltula Reward",
+             "AgeRequirement":3,
+             "CheckType":2
+          },
+           {  
+             "Location":"50 Gold Skulltula Reward",
+             "AgeRequirement":3,
              "CheckType":2
           }
        ]
@@ -51,12 +197,17 @@
        "CheckboxColorName":"Blue",
        "Checks":[  
           {  
+             "Location":"Song from Malon",
+             "AgeRequirement":1,
+             "CheckType":4
+          },           
+           {  
              "Location":"Cucco minigame",
              "AgeRequirement":1,
              "CheckType":2
           },
           {  
-             "Location":"Back building",
+             "Location":"Lon Lon Tower Freestanding PoH",
              "AgeRequirement":1,
              "CheckType":0
           }
@@ -67,8 +218,53 @@
      "Name":"Hyrule Castle",
      "CheckboxColorName":"Blue",
      "Checks":[  
+         {  
+           "Location":"Zelda",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
         {  
+           "Location":"Sheik at Temple",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Hyrule Castle Fairy Reward",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Ganons Castle Fairy Reward",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"10 Big Poes",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Bombchu Bowling Piece of Heart",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+          {  
+           "Location":"Impa at Castle",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
            "Location":"Archery minigame",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Treasure Chest Game",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Richard The dog",
            "AgeRequirement":1,
            "CheckType":2
         },
@@ -81,10 +277,35 @@
   },
   {  
      "Name":"Hyrule Field",
-     "CheckboxColorName":"Blue",
+     "CheckboxColorName":"LightGreen",
      "Checks":[  
         {  
            "Location":"Hyrule Castle Grotto",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+         {  
+           "Location":"Song from Ocarina of Time",
+           "AgeRequirement":3,
+           "CheckType":4
+        },
+         {  
+           "Location":"Hyrule Castle Grotto",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Field Near Lake Outside Fence Grotto Chest",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"HF Grotto Deku Scrub Piece of Heart",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+         {  
+           "Location":"Left of the Castle Door Grotto",
            "AgeRequirement":3,
            "CheckType":0
         },
@@ -101,6 +322,66 @@
      "Checks":[  
         {  
            "Location":"Broken Wall Chest",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Mountain Storms Grotto Chest",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Top of Crater Grotto Chest",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Sheik in Crater",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Death Mountain Bombable Chest",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location": "Goron City 4 Maze Chest",,
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Goron City Pot Freestanding PoH",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Rolling Goron as Child",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Link the Goron",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Darunias Joy",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Biggoron",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Crater Fairy Reward",
+           "AgeRequirement":3,
+           "CheckType":0
+        },
+        {  
+           "Location":"Mountain Summit Fairy Reward",
            "AgeRequirement":3,
            "CheckType":0
         },
@@ -122,6 +403,61 @@
            "CheckType":1
         },
         {  
+           "Location":"Frog Ocarina Game",
+           "AgeRequirement":3,
+           "CheckType":1
+        },
+        {  
+           "Location":"Frogs in the Rain",
+           "AgeRequirement":3,
+           "CheckType":1
+        },
+        {  
+           "Location":"Zora River Plateau Open Grotto Chest",
+           "AgeRequirement":3,
+           "CheckType":1
+        },
+        {  
+           "Location":"Zora River Lower Freestanding PoH",
+           "AgeRequirement":3,
+           "CheckType":1
+        },
+        {  
+           "Location":"Zora River Upper Freestanding PoH",
+           "AgeRequirement":3,
+           "CheckType":1
+        },
+        {  
+           "Location":"Diving Minigame",
+           "AgeRequirement":3,
+           "CheckType":1
+        },
+        {  
+           "Location":"Zoras Domain Torch Run",
+           "AgeRequirement":3,
+           "CheckType":1
+        },
+        {  
+           "Location":"King Zora Thawed",
+           "AgeRequirement":3,
+           "CheckType":1
+        },
+        {  
+           "Location":"Zoras Fountain Iceberg Freestanding PoH",
+           "AgeRequirement":3,
+           "CheckType":1
+        },
+        {  
+           "Location":"Zoras Fountain Bottom Freestanding PoH",
+           "AgeRequirement":3,
+           "CheckType":1
+        },
+        {  
+           "Location":"Zoras Fountain Fairy Reward"
+           "AgeRequirement":3,
+           "CheckType":1
+        },
+        {  
            "Location":"Grotto",
            "AgeRequirement":3,
            "CheckType":0
@@ -130,10 +466,40 @@
   },
   {  
      "Name":"Lake Hylia",
-     "CheckboxColorName":"Blue",
+     "CheckboxColorName":"Cyan",
      "Checks":[  
         {  
            "Location":"Over Lakeside Lab",
+           "AgeRequirement":2,
+           "CheckType":1
+        },
+         {  
+           "Location":"Underwater Bottle",
+           "AgeRequirement":2,
+           "CheckType":1
+        },
+        {  
+           "Location":"Lake Hylia Sun",
+           "AgeRequirement":2,
+           "CheckType":1
+        },
+        {  
+           "Location":"Lake Hylia Freestanding PoH",
+           "AgeRequirement":2,
+           "CheckType":1
+        },
+        {  
+           "Location":"Diving in the Lab",
+           "AgeRequirement":2,
+           "CheckType":1
+        },
+        {  
+           "Location":"Child Fishing",
+           "AgeRequirement":1,
+           "CheckType":1
+        },
+        {  
+           "Location":"Adult Fishing",
            "AgeRequirement":2,
            "CheckType":1
         },
@@ -146,15 +512,55 @@
   },
   {  
      "Name":"Gerudo-Valley",
-     "CheckboxColorName":"Blue",
+     "CheckboxColorName":"Yellow",
      "Checks":[  
         {  
-           "Location":"Anju Kid",
-           "AgeRequirement":1,
+           "Location":"Gerudo Valley Waterfall Freestanding PoH",
+           "AgeRequirement":3,
            "CheckType":2
         },
         {  
-           "Location":"Anju Adult",
+           "Location":"Gerudo Valley Crate Freestanding PoH",
+           "AgeRequirement":2,
+           "CheckType":2
+        },
+        {  
+           "Location":"Gerudo Valley Hammer Rocks Chest",
+           "AgeRequirement":2,
+           "CheckType":2
+        },
+        {  
+           "Location":"Gerudo Fortress Rooftop Chest",
+           "AgeRequirement":2,
+           "CheckType":2
+        },
+        {  
+           "Location":"Horseback Archery 1000 Points",
+           "AgeRequirement":2,
+           "CheckType":2
+        },
+        {  
+           "Location":"Horseback Archery 1500 Points",
+           "AgeRequirement":2,
+           "CheckType":2
+        },
+        {  
+           "Location":"Gerudo Fortress Carpenters",
+           "AgeRequirement":2,
+           "CheckType":2
+        },
+        {  
+           "Location":"Haunted Wasteland Structure Chest",
+           "AgeRequirement":2,
+           "CheckType":2
+        },
+        {  
+           "Location":"Colossus Freestanding PoH",
+           "AgeRequirement":2,
+           "CheckType":2
+        },
+        {  
+           "Location":"Desert Colossus Fairy Reward",
            "AgeRequirement":2,
            "CheckType":2
         }
@@ -163,7 +569,7 @@
   
   {  
      "Name":"Deku-Tree",
-     "CheckboxColorName":"Blue",
+     "CheckboxColorName":"Green",
      "Checks":[  
         {  
            "Location":"Anju Kid",
@@ -171,7 +577,7 @@
            "CheckType":2
         },
         {  
-           "Location":"Anju Adult",
+           "Location":"Queen Gohma",
            "AgeRequirement":2,
            "CheckType":2
         }
@@ -179,7 +585,7 @@
   },
   {  
      "Name":"Dodongo-Cavern",
-     "CheckboxColorName":"Blue",
+     "CheckboxColorName":"Red",
      "Checks":[  
         {  
            "Location":"Anju Kid",
@@ -187,7 +593,7 @@
            "CheckType":2
         },
         {  
-           "Location":"Anju Adult",
+           "Location":"King Dodongo",
            "AgeRequirement":2,
            "CheckType":2
         }
@@ -203,7 +609,7 @@
            "CheckType":2
         },
         {  
-           "Location":"Anju Adult",
+           "Location":"Barinade",
            "AgeRequirement":2,
            "CheckType":2
         }
@@ -212,7 +618,7 @@
   
   {  
      "Name":"Forest-Temple",
-     "CheckboxColorName":"Blue",
+     "CheckboxColorName":"Green",
      "Checks":[  
         {  
            "Location":"Anju Kid",
@@ -220,7 +626,7 @@
            "CheckType":2
         },
         {  
-           "Location":"Anju Adult",
+           "Location":"Phantom Ganon",
            "AgeRequirement":2,
            "CheckType":2
         }
@@ -228,7 +634,7 @@
   },
   {  
      "Name":"Fire-Temple",
-     "CheckboxColorName":"Blue",
+     "CheckboxColorName":"Red",
      "Checks":[  
         {  
            "Location":"Anju Kid",
@@ -236,7 +642,7 @@
            "CheckType":2
         },
         {  
-           "Location":"Anju Adult",
+           "Location":"Volvagia",
            "AgeRequirement":2,
            "CheckType":2
         }
@@ -252,7 +658,7 @@
            "CheckType":2
         },
         {  
-           "Location":"Anju Adult",
+           "Location":"Morpha",
            "AgeRequirement":2,
            "CheckType":2
         }
@@ -260,8 +666,8 @@
   },
   
   {  
-     "Name":"Lake Hylia",
-     "CheckboxColorName":"Blue",
+     "Name":"Shadow-Temple",
+     "CheckboxColorName":"Purple",
      "Checks":[  
         {  
            "Location":"Anju Kid",
@@ -269,15 +675,36 @@
            "CheckType":2
         },
         {  
-           "Location":"Anju Adult",
+           "Location":"Bongo Bongo",
            "AgeRequirement":2,
            "CheckType":2
         }
      ]
   },
   {  
-     "Name":"Lake Hylia",
-     "CheckboxColorName":"Blue",
+     "Name":"Spirit-Temple",
+     "CheckboxColorName":"Orange",
+     "Checks":[  
+        {  
+           "Location":"Anju Kid",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+          {  
+           "Location":"Sheik at Colossus",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Twinrova",
+           "AgeRequirement":2,
+           "CheckType":2
+        }
+     ]
+  },
+ {  
+     "Name":"Bottom-of-the-Well",
+     "CheckboxColorName":"Purple",
      "Checks":[  
         {  
            "Location":"Anju Kid",
@@ -285,10 +712,46 @@
            "CheckType":2
         },
         {  
-           "Location":"Anju Adult",
+           "Location":"Bongo Bongo",
            "AgeRequirement":2,
            "CheckType":2
         }
      ]
-  }
- ]
+  },
+  {  
+     "Name":"Ice-Cavern",
+     "CheckboxColorName":"Orange",
+     "Checks":[  
+        {  
+           "Location":"Sheik in Ice Cavern",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+          {  
+           "Location":"Sheik at Colossus",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Twinrova",
+           "AgeRequirement":2,
+           "CheckType":2
+        }
+     ]
+  } 
+  {  
+     "Name":"Ganon-Tower",
+     "CheckboxColorName":"Orange",
+     "Checks":[  
+        {  
+           "Location":"Ganons Tower Boss Key Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Twinrova",
+           "AgeRequirement":2,
+           "CheckType":2
+        }
+     ]
+  } 
