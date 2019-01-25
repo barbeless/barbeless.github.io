@@ -572,7 +572,32 @@
      "CheckboxColorName":"Green",
      "Checks":[  
         {  
-           "Location":"Anju Kid",
+           "Location":"Deku Tree Lobby Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Deku Tree Compass Chest",,
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Deku Tree Compass Room Side Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Deku Tree Basement Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Deku Tree Slingshot Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Deku Tree Slingshot Room Side Chest",
            "AgeRequirement":1,
            "CheckType":2
         },
@@ -588,7 +613,32 @@
      "CheckboxColorName":"Red",
      "Checks":[  
         {  
-           "Location":"Anju Kid",
+           "Location":"Dodongos Cavern Map Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Dodongos Cavern Compass Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Dodongos Cavern Bomb Flower Platform",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Dodongos Cavern Bomb Bag Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Dodongos Cavern End of Bridge Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Chest Above King Dodongo",
            "AgeRequirement":1,
            "CheckType":2
         },
