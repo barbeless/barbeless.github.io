@@ -654,7 +654,17 @@
      "CheckboxColorName":"Blue",
      "Checks":[  
         {  
-           "Location":"Anju Kid",
+           "Location":"Boomerang Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Jabu Jabus Belly Map Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Jabu Jabus Belly Compass Chest",
            "AgeRequirement":1,
            "CheckType":2
         },
@@ -671,7 +681,67 @@
      "CheckboxColorName":"Green",
      "Checks":[  
         {  
-           "Location":"Anju Kid",
+           "Location":"Forest Temple First Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Forest Temple Chest Behind Lobby",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Forest Temple Well Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Forest Temple Map Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location": "Forest Temple Outside Hookshot Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Forest Temple Falling Room Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Forest Temple Block Push Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location": "Forest Temple Boss Key Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Forest Temple Floormaster Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Forest Temple Bow Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Forest Temple Red Poe Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Forest Temple Blue Poe Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Forest Temple Near Boss Chest",
            "AgeRequirement":1,
            "CheckType":2
         },
@@ -757,7 +827,72 @@
      "CheckboxColorName":"Purple",
      "Checks":[  
         {  
-           "Location":"Anju Kid",
+           "Location":"Bottom of the Well Front Left Hidden Wall",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Front Center Bombable",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Right Bottom Hidden Wall",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Center Large Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Center Small Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Back Left Bombable",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Freestanding Key",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Defeat Boss",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Invisible Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Underwater Front Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Underwater Left Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Basement Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+         {  
+           "Location":"Bottom of the Well Locked Pits",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Bottom of the Well Behind Right Grate",
            "AgeRequirement":1,
            "CheckType":2
         },
