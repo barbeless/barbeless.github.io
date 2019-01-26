@@ -64,7 +64,7 @@ function LoadJson(callback)
     xobj.send(null);  
  }
 
- function SaveCookie()
+ save.onclick = function()
  {
     var cookieData;
 
