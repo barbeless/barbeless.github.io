@@ -96,6 +96,12 @@ function LoadJson(callback)
     document.cookie = "SavedData=" + cookieData;
  }
 
+ function ClearCookie()
+ {
+     document.cookie = "SavedData=";
+     LoadCookie();
+ }
+
  function ReadCookie(name)
  {
     var nameEQ = name + "=";

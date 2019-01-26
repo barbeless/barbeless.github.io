@@ -7,6 +7,13 @@ label
 { 
     margin-left: 9px; 
 }
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn:focus
+{
+    background-color: green!important;
+    border-color: darkgreen !important;
+}
+
 .custom-checkbox .custom-control-input:checked ~ .custom-control-label::before 
 {
     background-color: green!important;

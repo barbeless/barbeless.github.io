@@ -58,13 +58,19 @@
       </Table>
     </div>  
 
-    <button id="save" type="button" onclick="SaveCookie()">Save</button>
+    <button id="save" type="button" class="btn btn-primary my-2" onclick="SaveCookieClick()">Save</button>
+    <button id="save" type="button" class="btn btn-primary my-2" onclick="ClearCookieClick()">Clear</button>
   </body> 
 
   <script>
     function SaveCookieClick()
     {
        SaveCookie();
+    }
+
+    function ClearCookieClick()
+    {
+       ClearCookie();
     }
   </script>
 </html>
