@@ -1,7 +1,7 @@
 function LoadPage(json)
 {
     var locations = JSON.parse(json);
-    
+
     var div = document.getElementById("ItemChecks");
 
     locations.forEach(zone => {
@@ -63,26 +63,24 @@ function LoadJson(callback)
     xobj.send(null);  
  }
 
- function LoadCookie()
- {
+function LoadCookie()
+{
     var result = ReadCookie("SavedData");
     var values = result.split("|");
-
     values.forEach(value =>
     {
         var checkbox = document.getElementById(value);
-
         if(checkbox != null)
         {
             checkbox.checked = true;
         }
     });
- }
+}
 
- function SaveCookie()
- {
+function SaveCookie()
+{
     var cookieData = "";
- 
+
     var inputs = document.getElementsByTagName("input");
     for(var i = 0; i < inputs.length; i++)
     {
@@ -92,18 +90,27 @@ function LoadJson(callback)
             cookieData += input.getAttribute("id") + "|";
         }
     }
-  
+
     document.cookie = "SavedData=" + cookieData;
- }
+}
 
- function ClearCookie()
- {
-     document.cookie = "SavedData=";
-     LoadCookie();
- }
+function ClearCookie()
+{
+    document.cookie = "SavedData=";
+    
+    var inputs = document.getElementsByTagName("input");
+    for(var i = 0; i < inputs.length; i++)
+    {
+        var input = inputs[i];
+        if(input.type == "checkbox")
+        {
+            input.checked = false;
+        }
+    }
+}
 
- function ReadCookie(name)
- {
+function ReadCookie(name)
+{
     var nameEQ = name + "=";
     var ca = document.cookie.split(';');
     for(var i=0;i < ca.length;i++) {
@@ -112,8 +119,8 @@ function LoadJson(callback)
         if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
     }
     return null;
- }
+}
 
- var AgeRequirement = Object.freeze({"Child":1, "Adult":2, "Both":3});
- var TimeOfDay = Object.freeze({"Day":1, "Night":2, "Both":3});
- var CheckType = Object.freeze({"Chest":1, "OverworldItem":2, "Reward":3, "Song":4, "GoldenSkultulla":5});
+var AgeRequirement = Object.freeze({"Child":1, "Adult":2, "Both":3});
+var TimeOfDay = Object.freeze({"Day":1, "Night":2, "Both":3});
+var CheckType = Object.freeze({"Chest":1, "OverworldItem":2, "Reward":3, "Song":4, "GoldenSkultulla":5});

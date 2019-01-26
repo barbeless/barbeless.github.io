@@ -8,6 +8,12 @@ label
     margin-left: 9px; 
 }
 
+td
+{
+    vertical-align: text-top;
+    padding-bottom: 69px;
+}
+
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn:focus
 {
     background-color: green!important;
