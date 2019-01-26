@@ -44,9 +44,8 @@ function OnLoad()
     LoadJson(function(response)
     {
         LoadPage(response);
+        LoadCookie();
     });
-
-    LoadCookie();
 }
 
 function LoadJson(callback) 
@@ -82,7 +81,7 @@ function LoadJson(callback)
 
  function SaveCookie()
  {
-    var cookieData;
+    var cookieData = "";
  
     var inputs = document.getElementsByTagName("input");
     for(var i = 0; i < inputs.length; i++)
