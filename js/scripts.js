@@ -66,7 +66,7 @@ function LoadJson(callback)
  function LoadCookie()
  {
     var result = ReadCookie("SavedData");
-    var values = result.split(";");
+    var values = result.split("|");
 
     values.forEach(value =>
     {
@@ -74,7 +74,7 @@ function LoadJson(callback)
 
         if(checkbox != null)
         {
-            checkbox.checked;
+            checkbox.checked = true;
         }
     });
  }
@@ -89,7 +89,7 @@ function LoadJson(callback)
         var input = inputs[i];
         if(input.type == "checkbox" && input.checked)
         {
-            cookieData += input.getAttribute("id") + ";";
+            cookieData += input.getAttribute("id") + "|";
         }
     }
   
