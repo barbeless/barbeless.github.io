@@ -84,13 +84,15 @@ function LoadJson(callback)
  {
     var cookieData;
  
-    document.getElementsByTagName("input").forEach(input =>
+    var inputs = document.getElementsByTagName("input");
+    for(var i = 0; i < inputs.length; i++)
     {
+        var input = inputs[i];
         if(input.type == "checkbox" && input.hasAttribute("checked"))
         {
             cookieData += input.getAttribute("id") + ";";
         }
-    });
+    }
   
     document.cookie = "SavedData=" + cookieData;
  }
