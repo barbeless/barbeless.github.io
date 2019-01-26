@@ -45,6 +45,8 @@ function OnLoad()
     {
         LoadPage(response);
     });
+
+    LoadCookie();
 }
 
 function LoadJson(callback) 
@@ -62,6 +64,48 @@ function LoadJson(callback)
     xobj.send(null);  
  }
 
+ function SaveCookie()
+ {
+    var cookieData;
+
+    document.getElementsByTagName("input").forEach(input =>
+    {
+        if(input.type == "checkbox" && input.hasAttribute("checked"))
+        {
+            cookieData += input.getAttribute("id") + ";";
+        }
+    });
+
+    document.cookie = "SavedData=" + cookieData;
+ }
+
+ function LoadCookie()
+ {
+    var result = ReadCookie("SavedData");
+    var values = value.split(";");
+
+    values.forEach(value =>
+    {
+        var checkbox = document.getElementById(value);
+
+        if(checkbox != null)
+        {
+            checkbox.setAttribute("checked");
+        }
+    });
+ }
+
+ function ReadCookie(name)
+ {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+ }
 
  var AgeRequirement = Object.freeze({"Child":1, "Adult":2, "Both":3});
  var CheckType = Object.freeze({"Chest":1, "OverworldItem":2, "Reward":3, "Song":4, "GoldenSkultulla":5});
