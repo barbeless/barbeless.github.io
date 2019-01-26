@@ -64,25 +64,10 @@ function LoadJson(callback)
     xobj.send(null);  
  }
 
- save.onclick = function()
- {
-    var cookieData;
-
-    document.getElementsByTagName("input").forEach(input =>
-    {
-        if(input.type == "checkbox" && input.hasAttribute("checked"))
-        {
-            cookieData += input.getAttribute("id") + ";";
-        }
-    });
-
-    document.cookie = "SavedData=" + cookieData;
- }
-
  function LoadCookie()
  {
     var result = ReadCookie("SavedData");
-    var values = value.split(";");
+    var values = result.split(";");
 
     values.forEach(value =>
     {
@@ -93,6 +78,21 @@ function LoadJson(callback)
             checkbox.setAttribute("checked");
         }
     });
+ }
+
+ function SaveCookie()
+ {
+    var cookieData;
+ 
+    document.getElementsByTagName("input").forEach(input =>
+    {
+        if(input.type == "checkbox" && input.hasAttribute("checked"))
+        {
+            cookieData += input.getAttribute("id") + ";";
+        }
+    });
+  
+    document.cookie = "SavedData=" + cookieData;
  }
 
  function ReadCookie(name)
