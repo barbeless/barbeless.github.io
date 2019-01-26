@@ -1,0 +1,602 @@
+[
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Inside the Deku Tree",
+    "Description": "in an alcove with a chest in it,"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Inside the Deku Tree",
+    "Description": "on the vines that take you back to 1F"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Inside the Deku Tree",
+    "Description": "on the bars in the central room of"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Hyrule Castle Town Market",
+    "Description": "in a box in the guardhouse"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Path to Hyrule Castle",
+    "Description": "roll attack the tree by the entrance"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Lon Lon Ranch",
+    "Description": "roll attack the tree near the entrance to"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Kakariko Village",
+    "Description": "roll attack the tree in town"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Kakariko Village",
+    "Description": "on the back wall of the house nearest"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Kakariko Village",
+    "Description": "on the ladder up to the lookout tower"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Kakariko Village",
+    "Description": "below the window of the House of Skulltula"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Kakariko Village",
+    "Description": "on the pile of bricks on the plot of"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Kakariko Graveyard",
+    "Description": "drop a bug in the soft soil"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Death Mountain Trail",
+    "Description": "drop a bug in the soft soil by the"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Dodongo's Cavern",
+    "Description": "beyond the bombable wall in a room with"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Dodongo's Cavern",
+    "Description": "at the top of the room with the stairs"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Dodongo's Cavern",
+    "Description": "in the room accessible by pushing a"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Death Mountain Crater",
+    "Description": "just inside the entrance in a crate"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Zora's River",
+    "Description": "roll attack the tree at the entrance to"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Zora's River",
+    "Description": "on the ladder at the base of the waterfall"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Lake Hylia",
+    "Description": "drop a bug in the soft soil in front of the"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Lake Hylia",
+    "Description": "on a small square island near the middle of"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Zora's Fountain",
+    "Description": "roll attack the tree by the bombable wall"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Inside Jabu",
+    "Description": "Jabu's Belly - on some vines in a room with"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Inside Jabu",
+    "Description": "Jabu's Belly - in the room you reach by dropping"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Inside Jabu",
+    "Description": "Jabu's Belly - not far from the last one,"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Inside Jabu",
+    "Description": "Jabu's Belly - on the vines leading up to a"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Zora's Fountain",
+    "Description": "on the wall near the end of the log in"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Kakariko Graveyard",
+    "Description": "on the wall to the right of the second"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Death Mountain Trail",
+    "Description": "bomb the wall just past the entrance"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Goron City",
+    "Description": "in a room reachable by bombing boulders,"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Kokiri Forest",
+    "Description": "behind the Know-it-all-Brothers"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Kokiri Forest",
+    "Description": "drop a bug in the soft soil next to the"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Inside the Deku Tree",
+    "Description": "in a room behind a bombable wall,"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Lost Woods",
+    "Description": "in an area with two Business Scrubs, drop a"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Lost Woods",
+    "Description": "just beyond the area with the skull kid,"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Lake Hylia",
+    "Description": "on the back wall of the Lakeside Laboratory"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Hyrule Field",
+    "Description": "bomb the circle of stones outside the path"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Gerudo Valley",
+    "Description": "on the water spout by the first bridge"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Gerudo Valley",
+    "Description": "drop a bug in the soft soil by the river"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Lon Lon Ranch",
+    "Description": "on a window on the house next to the stable"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Lon Lon Ranch",
+    "Description": "on the wall by the silo in the eastern part"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 2,
+    "Location": "Lon Lon Ranch",
+    "Description": "behind the corral shed"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Hyrule Field",
+    "Description": "bomb the tree east of the entrance to Hyrule"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Ice Cavern",
+    "Description": "in the room with the silver rupees, behind"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Ice Cavern",
+    "Description": "in a room with falling icicles, the compass,"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Ice Cavern",
+    "Description": "in the block puzzle room"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Lake Hylia",
+    "Description": "sink to the bottom of the lakeside laboratory"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Kokiri Forest",
+    "Description": "on top of the House of Twins"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Lost Woods",
+    "Description": "Plant a Magic Bean deep within the Lost Woods as a child."
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Sacred Forest Meadow",
+    "Description": "On the high wall above the maze."
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Forest Temple",
+    "Description": "on the vines in the first room, on floor 1F"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Forest Temple",
+    "Description": "on the wall next to stairs in the central"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Forest Temple",
+    "Description": "reached by using the hookshot on the front"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Forest Temple",
+    "Description": "at the end of the stone walkway above the"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Forest Temple",
+    "Description": "in the room that can be rotated, on floor B2"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Ganon's Castle",
+    "Description": "behind the arch near the edge of"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Goron City",
+    "Description": "On the back of the hanging platform on the"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Fire Temple",
+    "Description": "on a wall in a room with a Like Like and"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Fire Temple",
+    "Description": "behind a bombable wall in the room with the"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Fire Temple",
+    "Description": "in the room reached by playing Scarecrow's"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Fire Temple",
+    "Description": "in the large circular room with 200 rupees"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Fire Temple",
+    "Description": "reached from the first room of the dungeon,"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Death Mountain",
+    "Description": "behind a rock in the area with eruptions"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Death Mountain",
+    "Description": "behind a rock on the ledge above Dodongo's"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Water Temple",
+    "Description": "bomb the cracked floor on 1F, spin attack"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Water Temple",
+    "Description": "in a corner of the vortex creek on 1F"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Water Temple",
+    "Description": "on north wall of room with platforms that fall down"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Water Temple",
+    "Description": "on the wall behind where boulders come down"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Water Temple",
+    "Description": "inside the tower, reached with the longshot"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Lake Hylia",
+    "Description": "on the tree atop the island of the Water Temple"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Under the Well",
+    "Description": "in a locked room reached from the center"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Under the Well",
+    "Description": "in a locked room reached from the center"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Under the Well",
+    "Description": "in a room with a Like Like on 1F"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Shadow Temple",
+    "Description": "in a room with an invisible spinning blade"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Shadow Temple",
+    "Description": "in a cell in a room with falling spikes on B4"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Shadow Temple",
+    "Description": "in a room with a single flaming skull on B4"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Shadow Temple",
+    "Description": "in the room where the ghost ship is first"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Shadow Temple",
+    "Description": "in a room with three spinning flaming skulls"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Gerudo Valley",
+    "Description": "behind the carpenter's tent"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Gerudo Valley",
+    "Description": "on the rock arch"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Gerudo Fortress",
+    "Description": "on a rock wall above the fortress"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Gerudo Fortress",
+    "Description": "on the far archery target in the archery"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Haunted Wasteland",
+    "Description": "inside the stone building"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Death Mountain Crater",
+    "Description": "play Bolero of Fire and drop a bug"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Hyrule Castle",
+    "Description": "Go to the area in front of"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Desert Colossus",
+    "Description": "drop a bug in the bean hole by the Spirit"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Spirit Temple",
+    "Description": "on a grating wall on 1F"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Spirit Temple",
+    "Description": "opposite a brick climbing wall on 1F"
+  },
+  {
+    "AgeRequirement": 1,
+    "TimeOfDay": 3,
+    "Location": "Spirit Temple",
+    "Description": "above the door in the corridor just before"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Desert Colossus",
+    "Description": "on a tree by the empty pond"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Desert Colossus",
+    "Description": "on the second rocky mound reached with"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Spirit Temple",
+    "Description": "in a niche in rolling boulder room, 1F"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Spirit Temple",
+    "Description": "in the big statue room on 3F, reached by"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Kakariko Village",
+    "Description": "on the roof of Impa's house (next to the"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Dodongo's Cavern",
+    "Description": "Set off all the bombs to lower the stairs."
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 3,
+    "Location": "Dodongo's Cavern",
+    "Description": "In the room with the baby Dodongos,"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Zora's River",
+    "Description": "In the west side of Zora's River,"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Zora's River",
+    "Description": "At night, stand in front of the waterfall"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Zora's Domain",
+    "Description": "to the left of the top of the frozen"
+  },
+  {
+    "AgeRequirement": 2,
+    "TimeOfDay": 2,
+    "Location": "Zora's Fountain",
+    "Description": "Make sure it's night.  Go over to the"
+  }
+]

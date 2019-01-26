@@ -109,4 +109,5 @@ function LoadJson(callback)
  }
 
  var AgeRequirement = Object.freeze({"Child":1, "Adult":2, "Both":3});
+ var TimeOfDay = Object.freeze({"Day":1, "Night":2, "Both":3});
  var CheckType = Object.freeze({"Chest":1, "OverworldItem":2, "Reward":3, "Song":4, "GoldenSkultulla":5});
