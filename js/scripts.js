@@ -75,7 +75,7 @@ function LoadJson(callback)
 
         if(checkbox != null)
         {
-            checkbox.setAttribute("checked");
+            checkbox.checked;
         }
     });
  }
@@ -88,7 +88,7 @@ function LoadJson(callback)
     for(var i = 0; i < inputs.length; i++)
     {
         var input = inputs[i];
-        if(input.type == "checkbox" && input.hasAttribute("checked"))
+        if(input.type == "checkbox" && input.checked)
         {
             cookieData += input.getAttribute("id") + ";";
         }
