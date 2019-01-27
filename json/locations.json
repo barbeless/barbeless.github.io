@@ -757,12 +757,77 @@
      "CheckboxColorName":"Red",
      "Checks":[  
         {  
-           "Location":"Anju Kid",
+           "Location":"Fire Temple Chest Near Boss",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Fire Dancer Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Boss Key Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Big Lava Room Bombable Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Big Lava Room Open Chest",
            "AgeRequirement":1,
            "CheckType":2
         },
         {  
            "Location":"Volvagia",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Boulder Maze Lower Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Boulder Maze Upper Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Boulder Maze Side Room",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Boulder Maze Bombable Pit",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Scarecrow Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Map Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Compass Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Highest Goron Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Fire Temple Megaton Hammer Chest",
            "AgeRequirement":2,
            "CheckType":2
         }
@@ -773,7 +838,52 @@
      "CheckboxColorName":"Blue",
      "Checks":[  
         {  
-           "Location":"Anju Kid",
+           "Location":"Water Temple Map Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Water Temple Compass Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Water Temple Torches Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Water Temple Dragon Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Water Temple Central Bow Target Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Water Temple Boss Key Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Water Temple Central Pillar Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Water Temple Cracked Wall Chest",,
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Water Temple Dark Link Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Water Temple River Chest",
            "AgeRequirement":1,
            "CheckType":2
         },
@@ -790,7 +900,87 @@
      "CheckboxColorName":"Purple",
      "Checks":[  
         {  
-           "Location":"Anju Kid",
+           "Location":"Shadow Temple Map Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Hover Boots Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Compass Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Early Silver Rupee Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Invisible Blades Visible Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Invisible Blades Invisible Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Falling Spikes Lower Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Falling Spikes Upper Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Falling Spikes Switch Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Invisible Spikes Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Freestanding Key",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Wind Hint Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple After Wind Enemy Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple After Wind Hidden Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Spike Walls Left Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Boss Key Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Shadow Temple Hidden Floormaster Chest",
            "AgeRequirement":1,
            "CheckType":2
         },
@@ -806,11 +996,101 @@
      "CheckboxColorName":"Orange",
      "Checks":[  
         {  
-           "Location":"Anju Kid",
+           "Location":"Spirit Temple Child Left Chest",
            "AgeRequirement":1,
            "CheckType":2
         },
-          {  
+        {  
+           "Location":"Spirit Temple Child Right Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Child Climb East Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Child Climb North Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Compass Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Early Adult Right Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple First Mirror Right Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple First Mirror Left Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Map Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Sun Block Room Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Statue Hand Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple NE Main Room Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Silver Gauntlets Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Mirror Shield Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Near Four Armos Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Hallway Left Invisible Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Hallway Right Invisible Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Boss Key Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
+           "Location":"Spirit Temple Topmost Chest",
+           "AgeRequirement":1,
+           "CheckType":2
+        },
+        {  
            "Location":"Sheik at Colossus",
            "AgeRequirement":2,
            "CheckType":4
@@ -896,11 +1176,6 @@
            "AgeRequirement":1,
            "CheckType":2
         },
-        {  
-           "Location":"Bongo Bongo",
-           "AgeRequirement":2,
-           "CheckType":2
-        }
      ]
   },
   {  
@@ -912,29 +1187,220 @@
            "AgeRequirement":2,
            "CheckType":4
         },
-          {  
-           "Location":"Sheik at Colossus",
+        {  
+           "Location":"Ice Cavern Map Chest",
            "AgeRequirement":2,
            "CheckType":4
         },
         {  
-           "Location":"Twinrova",
+           "Location":"Ice Cavern Compass Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+          {  
+           "Location":"Ice Cavern Iron Boots Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ice Cavern Freestanding PoH",
            "AgeRequirement":2,
            "CheckType":2
         }
      ]
-  }, 
+  },
   {  
-     "Name":"Ganon-Tower",
+     "Name":"Gerudo-Training-Ground",
      "CheckboxColorName":"Orange",
      "Checks":[  
         {  
-           "Location":"Ganons Tower Boss Key Chest",
+           "Location":"Gerudo Training Grounds Lobby Left Chest",
            "AgeRequirement":2,
            "CheckType":4
         },
         {  
-           "Location":"Twinrova",
+           "Location":"Gerudo Training Grounds Lobby Right Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Stalfos Chest", 
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Beamos Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Hidden Ceiling Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Maze Path First Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Maze Path Second Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Maze Path Third Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Maze Path Final Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Maze Right Central Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Maze Right Side Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Freestanding Key",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Underwater Silver Rupee Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Hammer Room Clear Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Hammer Room Switch Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Eye Statue Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Near Scarecrow Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Before Heavy Block Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Heavy Block First Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Heavy Block Second Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Heavy Block Third Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Gerudo Training Grounds Heavy Block Fourth Chest",
+           "AgeRequirement":2,
+           "CheckType":2
+        }
+     ]
+  },  
+  {  
+     "Name":"Ganon-Tower",
+     "CheckboxColorName":"Gray",
+     "Checks":[  
+        {  
+           "Location":"Ganons Castle Forest Trial Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Water Trial Left Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Water Trial Right Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Shadow Trial First Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Shadow Trial Second Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Spirit Trial First Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Spirit Trial Second Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Light Trial First Left Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Light Trial Second Left Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Light Trial Third Left Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Light Trial First Right Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Light Trial Second Right Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Light Trial Third Right Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Light Trial Invisible Enemies Chest",
+           "AgeRequirement":2,
+           "CheckType":4
+        },
+        {  
+           "Location":"Ganons Castle Light Trial Lullaby Chest",
            "AgeRequirement":2,
            "CheckType":2
         }
