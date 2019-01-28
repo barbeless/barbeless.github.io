@@ -91,7 +91,8 @@ function SaveCookie()
         }
     }
 
-    document.cookie = "SavedData=" + cookieData + "; expires=" new Date("2069").toUTCString();
+    var expirationDate = new Date("2069");
+    document.cookie = "SavedData=" + cookieData + "; expires=" + expirationDate.toUTCString();
 }
 
 function ClearCookie()
