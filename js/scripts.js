@@ -78,7 +78,7 @@ function OnLoad()
      });
 }
 
-function LoadJson() 
+function LoadJson(callback) 
 {   
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
