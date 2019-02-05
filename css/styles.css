@@ -36,3 +36,10 @@ td
 {
     background-color: #C8FFC8; 
 }
+
+
+.tooltip-inner {
+    min-width: 200%;
+    width: 100%;
+    max-width: 100%; 
+}

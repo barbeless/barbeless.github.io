@@ -14,7 +14,22 @@ function AddZone(zone)
     var zoneDiv = document.getElementById(zone.Name.replace(" ", "-").replace(" ", "-"));
 
     var header = document.createElement("h3");
-    header.textContent = zone.Name;
+    
+    var headerSpan = document.createElement("span");
+    headerSpan.textContent = zone.Name;
+
+    if(zone.Tips != null)
+    {
+        headerSpan.setAttribute("data-toggle", "tooltip");
+        headerSpan.setAttribute("data-placement", "auto");
+        headerSpan.setAttribute("data-html", "true");
+
+        var tooltipText = GenerateTooltipText(zone.Tips);
+        headerSpan.setAttribute("title", tooltipText);
+    }
+
+    header.appendChild(headerSpan);
+
     zoneDiv.appendChild(header);
 
     zone.Checks.forEach(check => 
@@ -39,16 +54,31 @@ function AddZone(zone)
     });
 }
 
-function OnLoad()
+function GenerateTooltipText(tips)
 {
-    LoadJson(function(response)
+    var resultText = "";
+
+    tips.forEach(tip =>
     {
-        LoadPage(response);
-        LoadCookie();
+        var issue = "<h4>" + tip.Issue + "</h4>";        
+        var solution = "<li>" + tip.Solution + "</li>";
+
+        resultText += issue + solution;
     });
+
+    return resultText;
 }
 
-function LoadJson(callback) 
+function OnLoad()
+{
+     LoadJson(function(response)
+     {
+        LoadPage(response);
+        LoadCookie("SavedData");
+     });
+}
+
+function LoadJson() 
 {   
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
@@ -63,9 +93,9 @@ function LoadJson(callback)
     xobj.send(null);  
  }
 
-function LoadCookie()
+function LoadCookie(property)
 {
-    var result = ReadCookie("SavedData");
+    var result = ReadCookie(property);
     var values = result.split("|");
     values.forEach(value =>
     {

@@ -2,6 +2,16 @@
     {  
        "Name":"Kokiri Forest",
        "CheckboxColorName":"Green",
+       "Tips":[
+         {
+            "Issue":"Stuck in house",
+            "Solution":"Tilt the Control Stick to move around. Go through the door and you will reach Kokiri Forest. The game gets much easier from there."
+         },
+         {
+            "Issue":"Skull Kid won’t buy this sweet Skull Mask",
+            "Solution":"Skull Kid won’t buy Skull Mask until you befriend him with Saria’s Song."
+         }
+      ],
        "Checks":[  
           {  
              "Location":"Kokiri Sword Chest",
@@ -79,6 +89,20 @@
     {  
        "Name":"Kakariko Village",
        "CheckboxColorName":"Blue",
+       "Tips":[
+         {
+            "Issue":"Shooting Gallery gives 50 rupees",
+            "Solution":"The Fairy Bow/Quiver is required to win the special prize. Otherwise you will receive 50 rupees."
+         },
+         {
+            "Issue":"Can’t get onto rooftops without Longshot",
+            "Solution":"Yes you can. Get a little closer and use the Hookshot."
+         },
+         {
+            "Issue":"Well won't drain",
+            "Solution":"Project 64 is known to have issues with this, among other things. For the purposes of this project, we can only recommend using a different emulator."
+         }
+      ],
        "Checks":[  
            {  
              "Location":"Sheik in Kakariko",
