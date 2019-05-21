@@ -343,6 +343,16 @@
   {  
      "Name":"Death Mountain",
      "CheckboxColorName":"Red",
+     "Tips":[
+      {
+         "Issue":"Reach Goron City from Lost Woods without Bombs",
+         "Solution":"You can ignite the Bomb Flowers behind the boulders using Din’s Fire."
+      },
+      {
+         "Issue":"Boulder Maze without Bombs or Hammer",
+         "Solution":"Silver Guantlets are effective at clearing a path to each of the chests in the room. This will take some time, however."
+      }
+      ],
      "Checks":[  
         {  
            "Location":"Broken Wall Chest",
@@ -420,6 +430,12 @@
   {  
      "Name":"Zora Domain",
      "CheckboxColorName":"Blue",
+     "Tips":[
+      {
+         "Issue":"Need Blue Fire to unfreeze King Zora/Zora shop",
+         "Solution":"If you have access to Ganon’s Castle, Blue Fire can be found in Water Trial. \nBlue Fire may be a purchasable item for 300 rupees in non-shuffled shops. \nAs usual, Blue Fire can be obtained in Ice Cavern."
+      }
+      ],
      "Checks":[  
         {  
            "Location":"Pillar Item",
@@ -535,7 +551,7 @@
      ]
   },
   {  
-     "Name":"Gerudo-Valley",
+     "Name":"Gerudo Valley",
      "CheckboxColorName":"Yellow",
      "Checks":[  
         {  
@@ -592,7 +608,7 @@
   },
   
   {  
-     "Name":"Deku-Tree",
+     "Name":"Deku Tree",
      "CheckboxColorName":"Green",
      "Checks":[  
         {  
@@ -633,7 +649,7 @@
      ]
   },
   {  
-     "Name":"Dodongo-Cavern",
+     "Name":"Dodongo Cavern",
      "CheckboxColorName":"Red",
      "Checks":[  
         {  
@@ -701,8 +717,14 @@
   },
   
   {  
-     "Name":"Forest-Temple",
+     "Name":"Forest Temple",
      "CheckboxColorName":"Green",
+     "Tips":[
+      {
+         "Issue":"Get outside without Song of Time or Bow",
+         "Solution":"With Hover Boots you can float to the door connecting the large block-pushing room with the courtyard."
+      }
+      ],
      "Checks":[  
         {  
            "Location":"Forest Temple First Chest",
@@ -777,7 +799,7 @@
      ]
   },
   {  
-     "Name":"Fire-Temple",
+     "Name":"Fire Temple",
      "CheckboxColorName":"Red",
      "Checks":[  
         {  
@@ -858,8 +880,18 @@
      ]
   },
   {  
-     "Name":"Water-Temple",
+     "Name":"Water Temple",
      "CheckboxColorName":"Blue",
+     "Tips":[
+      {
+         "Issue":"Boss Key chest without Bombs or Goron’s Bracelet",
+         "Solution":"Use the Hover Boots to reach the chest."
+      },
+      {
+         "Issue":"Center room’s Gold Skulltula without Longshot",
+         "Solution":"Cast Farore’s Wind inside the center room. Raise the water to its highest level and return to the warp point. Swim to the surface to reach the Gold Skulltula."
+      }
+      ],
      "Checks":[  
         {  
            "Location":"Water Temple Map Chest",
@@ -920,8 +952,22 @@
   },
   
   {  
-     "Name":"Shadow-Temple",
+     "Name":"Shadow Temple",
      "CheckboxColorName":"Purple",
+     "Tips":[
+      {
+         "Issue":"First silver rupee room without Hookshot",
+         "Solution":"You can get to the raised platform in the corner of the room by using the Hover Boots from the nearby low wall."
+      },
+      {
+         "Issue":"Spike floor room without Longshot",
+         "Solution":"Backflip onto the chest spawned in the middle of the room. From there you can use the Hookshot to reach the upper ledge."
+      },
+      {
+         "Issue":"Reach Bongo Bongo without the Fairy Bow",
+         "Solution":"Play the Scarecrow’s Song to summon Pierre. Shoot his face with the Longshot to get to the other side."
+      }
+      ],
      "Checks":[  
         {  
            "Location":"Shadow Temple Map Chest",
@@ -1016,7 +1062,7 @@
      ]
   },
   {  
-     "Name":"Spirit-Temple",
+     "Name":"Spirit Temple",
      "CheckboxColorName":"Orange",
      "Checks":[  
         {  
@@ -1127,7 +1173,7 @@
      ]
   },
  {  
-     "Name":"Bottom-of-the-Well",
+     "Name":"Bottom of the Well",
      "CheckboxColorName":"Purple",
      "Checks":[  
         {  
@@ -1203,7 +1249,7 @@
      ]
   },
   {  
-     "Name":"Ice-Cavern",
+     "Name":"Ice Cavern",
      "CheckboxColorName":"Orange",
      "Checks":[  
         {  
@@ -1234,8 +1280,14 @@
      ]
   },
   {  
-     "Name":"Gerudo-Training-Ground",
+     "Name":"Gerudo Training Ground",
      "CheckboxColorName":"Orange",
+     "Tips":[
+      {
+         "Issue":"Timed boulder room without Longshot",
+         "Solution":"The target on the ceiling is just within range of the Hookshot if you stand directly under it. \nA wallmaster can also lift you up into the rupee if it’s the last one you need to collect."
+      }
+      ],
      "Checks":[  
         {  
            "Location":"Gerudo Training Grounds Lobby Left Chest",
@@ -1350,7 +1402,7 @@
      ]
   },  
   {  
-     "Name":"Ganon-Tower",
+     "Name":"Ganon Tower",
      "CheckboxColorName":"Gray",
      "Checks":[  
         {  
